@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Class.cfc" server="65.36.139.6" local="128959710174045531" remote="129092893200000000" />
+<file name="ClassDAO.cfc" server="65.36.139.6" local="128959710176858049" remote="129092893200000000" />
+<file name="ClassGateway.cfc" server="65.36.139.6" local="129104204141496380" remote="129104308200000000" />
+<file name="Color.cfc" server="65.36.139.6" local="128959710314983933" remote="129092893200000000" />
+<file name="ColorDAO.cfc" server="65.36.139.6" local="128959710318108953" remote="129092893200000000" />
+<file name="ColorGateway.cfc" server="65.36.139.6" local="128962255738791404" remote="129092893200000000" />
+<file name="Division.cfc" server="65.36.139.6" local="128959709786543051" remote="129092893200000000" />
+<file name="DivisionDAO.cfc" server="65.36.139.6" local="128959709795293107" remote="129092893200000000" />
+<file name="DivisionGateway.cfc" server="65.36.139.6" local="129104204082432746" remote="129104308200000000" />
+<file name="Product.cfc" server="65.36.139.6" local="129114423623766234" remote="129114617400000000" />
+<file name="ProductDAO.cfc" server="65.36.139.6" local="129114423627985065" remote="129114617400000000" />
+<file name="ProductGateway.cfc" server="65.36.139.6" local="129114423630485113" remote="129114617400000000" />
+<file name="ProductImage.cfc" server="65.36.139.6" local="128980462369220647" remote="129092893200000000" />
+<file name="ProductImageDAO.cfc" server="65.36.139.6" local="129085766910978602" remote="129092893200000000" />
+<file name="ProductImageGateway.cfc" server="65.36.139.6" local="129085766771441994" remote="129092893200000000" />
+<file name="ProductMainImage.cfc" server="65.36.139.6" local="129085913231597098" remote="129092893200000000" />
+<file name="ProductMainImageDAO.cfc" server="65.36.139.6" local="129085913235816010" remote="129092893200000000" />
+<file name="ProductMainImageGateway.cfc" server="65.36.139.6" local="129085914775406378" remote="129092893200000000" />
+<file name="Size.cfc" server="65.36.139.6" local="128959710949362993" remote="129092893200000000" />
+<file name="SizeDAO.cfc" server="65.36.139.6" local="128959710951081754" remote="129092893200000000" />
+<file name="SizeGateway.cfc" server="65.36.139.6" local="128959710952175511" remote="129092893200000000" />
+<file name="Style.cfc" server="65.36.139.6" local="128959710797643272" remote="129092893200000000" />
+<file name="StyleDAO.cfc" server="65.36.139.6" local="128959710801393296" remote="129092893200000000" />
+<file name="StyleGateway.cfc" server="65.36.139.6" local="128959710803580810" remote="129092893200000000" />
+<file name="Discount.cfc" server="65.36.139.6" local="129114388742940285" remote="129114616800000000" />
+<file name="DiscountDAO.cfc" server="65.36.139.6" local="129114388746690357" remote="129114616800000000" />
+<file name="DiscountGateway.cfc" server="65.36.139.6" local="129114388750284176" remote="129114617400000000" />
+</dwsync>

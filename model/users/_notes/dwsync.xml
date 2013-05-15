@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Role.cfc" server="65.36.139.6" local="128963978586458589" remote="129092893200000000" />
+<file name="RoleDAO.cfc" server="65.36.139.6" local="128963978589271107" remote="129092893200000000" />
+<file name="RoleGateway.cfc" server="65.36.139.6" local="128963978592083625" remote="129092893200000000" />
+<file name="User.cfc" server="65.36.139.6" local="129132475454476316" remote="129212989200000000" />
+<file name="UserDAO.cfc" server="65.36.139.6" local="129132475458695147" remote="129212989200000000" />
+<file name="UserGateway.cfc" server="65.36.139.6" local="129132475461820207" remote="129212989200000000" />
+<file name="Login.cfc" server="65.36.139.6" local="129111083194260162" remote="129111196200000000" />
+<file name="LoginDAO.cfc" server="65.36.139.6" local="129111083197228969" remote="129111196200000000" />
+<file name="LoginGateway.cfc" server="65.36.139.6" local="129111083200510282" remote="129111196200000000" />
+</dwsync>

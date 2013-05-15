@@ -1,0 +1,29 @@
+/* CSS file */
+Application {
+   backgroundGradientColors: #ffffff, #cccccc;
+}
+
+ApplicationControlBar {
+   borderStyle: solid;
+   cornerRadius: 0;
+   dropShadowEnabled: true;
+   shadowDistance: 2;
+   shadowDirection: right;
+}
+
+.listItem
+{
+    paddingLeft:            4;
+    paddingRight:           4;
+    horizontalGap:          5;
+    verticalAlign:          "middle";
+    backgroundColor:        #FFFFFF;
+    backgroundAlpha:        .5;
+    borderStyle:            "outset";
+}
+
+.sectionHeader
+{
+    fontWeight:             "bold";
+    fontSize:               11;
+}
